@@ -63,11 +63,11 @@ STAIRCASE = True
 
 BATCH_SIZE = 45   #batch size
 
-MAX_ITER = 1     #迭代次数，可自定义
+MAX_ITER = 100     #迭代次数，可自定义
 
 SUMMARY_ITER = 10
 
-SAVE_ITER = 1000
+SAVE_ITER = 10
 
 
 #
